@@ -1,6 +1,6 @@
 # Synthesizing EHR data with GANs
 
-### Code explanation
+### State-of-the-art GAN models for synthesizing patient EHRs with various data types.
 
 (1) C-RNN-GAN
 - Paper link: https://arxiv.org/abs/1611.09904
